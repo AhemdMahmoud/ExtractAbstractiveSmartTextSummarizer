@@ -6,6 +6,10 @@ This is a Python-based application that provides a simple way to summarize text 
 
 The application uses **Hugging Face Transformers** for text summarization models and **spaCy** for extractive summarization.
 
+try Live On [Gradio]( https://7af69987c540f22d5e.gradio.live/ )
+
+
+
 ## Features
 
 - **Extractive Summarization**: Selects key sentences from the input text to generate a summary based on word frequency.
