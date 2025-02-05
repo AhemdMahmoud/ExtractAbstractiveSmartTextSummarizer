@@ -9,6 +9,7 @@ The application uses **Hugging Face Transformers** for text summarization models
 try Live On [Gradio]( https://7af69987c540f22d5e.gradio.live/ )
 
 
+[screen-capture.mp4.webm](https://github.com/user-attachments/assets/a19aa9f1-8806-41d7-b6c6-5e7e8a56ddfb)
 
 ## Features
 
